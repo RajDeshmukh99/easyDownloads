@@ -1,0 +1,16 @@
+{
+    "name": "myExtention",
+    "version": "1.0",
+    "manifest_version" : 2,
+    "description":"My first Extention.",
+    "icons":{
+        "128":"icon.png"
+    },
+    "browser_action":{
+        "default_title":"myExtention",
+        "default_popup":"index.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}

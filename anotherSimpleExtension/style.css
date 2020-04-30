@@ -1,0 +1,19 @@
+body{
+    width:200px;
+    background-color:#ffffff;
+}
+#dbtn{
+    margin:auto;
+    text-align:center;
+    background-color:#337ab7;
+    color: white;
+    padding: 10px 14px 10px 14px;
+    width:100px;
+    font-weight:bolder;
+}
+#dbtn:hover{
+    cursor:pointer;
+    background-color:#286090;
+}
+
+
