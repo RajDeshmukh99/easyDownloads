@@ -1,0 +1,17 @@
+{
+    "name": "easyDownloads",
+    "version": "1.0",
+    "manifest_version" : 2,
+    "description":"Download videos to avoid buffering",
+    "icons":{
+        "128":"icon.png"
+    },
+    "browser_action":{
+        "default_title":"easyDownloads",
+        "default_popup":"index.html"
+    },
+
+    "permissions": [
+        "http://vitol.ac.in/courses/*"
+    ]
+}
